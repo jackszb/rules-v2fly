@@ -1,10 +1,10 @@
 # NAME: CATEGORY-RETAIL-RU
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-05-23 10:07:36
-# DOMAIN-SUFFIX: 74
+# UPDATED: 2026-07-29 06:03:53
+# DOMAIN-SUFFIX: 75
 # DOMAIN: 4
-# TOTAL: 78
+# TOTAL: 79
 DOMAIN-SUFFIX,5ka.ru
 DOMAIN-SUFFIX,5post.market
 DOMAIN-SUFFIX,abonementx5.ru
@@ -54,6 +54,7 @@ DOMAIN-SUFFIX,notik.ru
 DOMAIN-SUFFIX,okolo.app
 DOMAIN-SUFFIX,oskelly.co
 DOMAIN-SUFFIX,oskelly.ru
+DOMAIN-SUFFIX,ostin.com
 DOMAIN-SUFFIX,perekrestok.com
 DOMAIN-SUFFIX,perekrestok.ru
 DOMAIN-SUFFIX,regard.ru
