@@ -1,0 +1,11 @@
+# NAME: AUTORU
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
+# UPDATED: 2026-07-30 05:49:43
+# DOMAIN-SUFFIX: 5
+# TOTAL: 5
+DOMAIN-SUFFIX,apiauto.ru
+DOMAIN-SUFFIX,auto.ru
+DOMAIN-SUFFIX,autoru.me
+DOMAIN-SUFFIX,avto.ru
+DOMAIN-SUFFIX,cm.expert

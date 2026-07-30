@@ -1,0 +1,15 @@
+# NAME: IXBT
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
+# UPDATED: 2026-07-30 05:49:45
+# DOMAIN-SUFFIX: 9
+# TOTAL: 9
+DOMAIN-SUFFIX,ixbt.com
+DOMAIN-SUFFIX,ixbt.games
+DOMAIN-SUFFIX,ixbt.market
+DOMAIN-SUFFIX,ixbt.media
+DOMAIN-SUFFIX,ixbt.pro
+DOMAIN-SUFFIX,ixbt.ru
+DOMAIN-SUFFIX,ixbt.shop
+DOMAIN-SUFFIX,ixbt.site
+DOMAIN-SUFFIX,ixbt.video

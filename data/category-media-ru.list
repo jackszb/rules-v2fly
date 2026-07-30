@@ -1,13 +1,15 @@
 # NAME: CATEGORY-MEDIA-RU
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-07-29 06:03:53
-# DOMAIN-SUFFIX: 138
-# TOTAL: 138
+# UPDATED: 2026-07-30 05:49:44
+# DOMAIN-SUFFIX: 142
+# TOTAL: 142
 DOMAIN-SUFFIX,1917live.red
 DOMAIN-SUFFIX,1prime.ru
+DOMAIN-SUFFIX,72.ru
 DOMAIN-SUFFIX,actualidad-rt.com
 DOMAIN-SUFFIX,ahilesva.info
+DOMAIN-SUFFIX,amic.ru
 DOMAIN-SUFFIX,arabicrt.ru
 DOMAIN-SUFFIX,arctic.ru
 DOMAIN-SUFFIX,artel.watch
@@ -28,11 +30,13 @@ DOMAIN-SUFFIX,dert.online
 DOMAIN-SUFFIX,dert.site
 DOMAIN-SUFFIX,dert.tech
 DOMAIN-SUFFIX,drobbox.pro
+DOMAIN-SUFFIX,e1.ru
 DOMAIN-SUFFIX,eadaily.com
 DOMAIN-SUFFIX,eadaily.info
 DOMAIN-SUFFIX,eadaily.net
 DOMAIN-SUFFIX,eadaily.org
 DOMAIN-SUFFIX,eadaily.su
+DOMAIN-SUFFIX,ekat.ru
 DOMAIN-SUFFIX,es-rt.com
 DOMAIN-SUFFIX,esrt.online
 DOMAIN-SUFFIX,esrt.press
@@ -45,12 +49,11 @@ DOMAIN-SUFFIX,freeassange.tech
 DOMAIN-SUFFIX,freede.tech
 DOMAIN-SUFFIX,freedert.online
 DOMAIN-SUFFIX,gatewaytorussia.ru
+DOMAIN-SUFFIX,gazeta.ru
 DOMAIN-SUFFIX,gazetarussa.com.br
 DOMAIN-SUFFIX,green-box-tv.com
 DOMAIN-SUFFIX,gw2ru.com
 DOMAIN-SUFFIX,inosmi.ru
-DOMAIN-SUFFIX,ixbt.com
-DOMAIN-SUFFIX,ixbt.site
 DOMAIN-SUFFIX,jinrieluosi.cn
 DOMAIN-SUFFIX,kanzlerdaddy.ru
 DOMAIN-SUFFIX,khangar.net
@@ -63,6 +66,7 @@ DOMAIN-SUFFIX,premiumlive.site
 DOMAIN-SUFFIX,pressria.ru
 DOMAIN-SUFFIX,radiosputnik.ria.ru
 DOMAIN-SUFFIX,radiosputnik.ru
+DOMAIN-SUFFIX,rambler.ru
 DOMAIN-SUFFIX,rbth.com
 DOMAIN-SUFFIX,ria.ru
 DOMAIN-SUFFIX,romanovs100.com
