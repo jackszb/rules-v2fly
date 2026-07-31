@@ -1,9 +1,9 @@
 # NAME: NETEASE
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-07-01 07:17:24
-# DOMAIN-SUFFIX: 53
-# TOTAL: 53
+# UPDATED: 2026-07-31 06:18:49
+# DOMAIN-SUFFIX: 54
+# TOTAL: 54
 DOMAIN-SUFFIX,126.com
 DOMAIN-SUFFIX,126.link
 DOMAIN-SUFFIX,126.net
@@ -34,6 +34,7 @@ DOMAIN-SUFFIX,iadmatapk.nosdn.127.net
 DOMAIN-SUFFIX,iadmusicmat.music.126.net
 DOMAIN-SUFFIX,iadmusicmatvideo.music.126.net
 DOMAIN-SUFFIX,icourse163.org
+DOMAIN-SUFFIX,kada.com
 DOMAIN-SUFFIX,lf126.net
 DOMAIN-SUFFIX,lf127.net
 DOMAIN-SUFFIX,lofter.com

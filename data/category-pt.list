@@ -1,10 +1,11 @@
 # NAME: CATEGORY-PT
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-06-29 08:21:27
-# DOMAIN-SUFFIX: 123
-# TOTAL: 123
+# UPDATED: 2026-07-31 06:18:49
+# DOMAIN-SUFFIX: 127
+# TOTAL: 127
 DOMAIN-SUFFIX,1ptba.com
+DOMAIN-SUFFIX,52dic.vip
 DOMAIN-SUFFIX,52pt.site
 DOMAIN-SUFFIX,animebytes.tv
 DOMAIN-SUFFIX,audiences.me
@@ -22,6 +23,7 @@ DOMAIN-SUFFIX,ccfbits.org
 DOMAIN-SUFFIX,chdbits.co
 DOMAIN-SUFFIX,chdbits.xyz
 DOMAIN-SUFFIX,chddiy.xyz
+DOMAIN-SUFFIX,cinefiles.info
 DOMAIN-SUFFIX,cinemaz.to
 DOMAIN-SUFFIX,cyanbug.net
 DOMAIN-SUFFIX,dicmusic.com
@@ -54,6 +56,7 @@ DOMAIN-SUFFIX,hdtime.org
 DOMAIN-SUFFIX,hdvideo.one
 DOMAIN-SUFFIX,hdzone.me
 DOMAIN-SUFFIX,hhan.club
+DOMAIN-SUFFIX,hhanclub.net
 DOMAIN-SUFFIX,hhanclub.top
 DOMAIN-SUFFIX,hitpt.com
 DOMAIN-SUFFIX,hudbt.hust.edu.cn
@@ -102,6 +105,7 @@ DOMAIN-SUFFIX,ptcafe.club
 DOMAIN-SUFFIX,ptchdbits.co
 DOMAIN-SUFFIX,ptchina.org
 DOMAIN-SUFFIX,pterclub.com
+DOMAIN-SUFFIX,pterclub.net
 DOMAIN-SUFFIX,pthome.net
 DOMAIN-SUFFIX,ptsbao.club
 DOMAIN-SUFFIX,pttime.org

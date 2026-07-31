@@ -1,11 +1,11 @@
 # NAME: CATEGORY-ADS-ALL
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-07-11 05:46:18
-# DOMAIN-SUFFIX: 622
+# UPDATED: 2026-07-31 06:18:48
+# DOMAIN-SUFFIX: 624
 # DOMAIN: 146
 # URL-REGEX: 1
-# TOTAL: 769
+# TOTAL: 771
 DOMAIN,1l-hit.mail.ru
 DOMAIN,1l-hit.vkplay.ru
 DOMAIN-SUFFIX,1rx.io
@@ -306,6 +306,7 @@ DOMAIN-SUFFIX,crash.163.com
 DOMAIN-SUFFIX,crash2.zhihu.com
 DOMAIN-SUFFIX,crashlytics.163.com
 DOMAIN-SUFFIX,cretgate.com
+DOMAIN-SUFFIX,csjplatform.com
 DOMAIN-SUFFIX,cstm.baidu.com
 DOMAIN-SUFFIX,ctobsnssdk.com
 DOMAIN-SUFFIX,cupid.iqiyi.com
@@ -547,6 +548,7 @@ DOMAIN-SUFFIX,optaim.com
 DOMAIN-SUFFIX,p.aty.sohu.com
 DOMAIN-SUFFIX,p4p.sina.com.cn
 DOMAIN-SUFFIX,pagead.l.google.com
+DOMAIN-SUFFIX,pangle.cn
 DOMAIN-SUFFIX,pangolin-dsp-toutiao-b.com
 DOMAIN-SUFFIX,pangolin-dsp-toutiao.com
 DOMAIN-SUFFIX,pangolin-hl.snssdk.com
