@@ -1,11 +1,11 @@
 # NAME: GEOLOCATION-!CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-07-31 06:18:49
-# DOMAIN-SUFFIX: 24199
+# UPDATED: 2026-08-02 06:08:28
+# DOMAIN-SUFFIX: 24211
 # DOMAIN: 1435
 # URL-REGEX: 158
-# TOTAL: 25792
+# TOTAL: 25804
 URL-REGEX,(^|\.)13mei[5-7]\.buzz$
 URL-REGEX,(^|\.)18j[efg]\.life$
 URL-REGEX,(^|\.)18jmttios[0-9]{2}\.com$
@@ -845,6 +845,7 @@ DOMAIN-SUFFIX,acrobat.com
 DOMAIN-SUFFIX,acs.org
 DOMAIN-SUFFIX,actalis.com
 DOMAIN-SUFFIX,actalis.it
+DOMAIN-SUFFIX,actifio.com
 DOMAIN,activate-sea.adobe.com
 DOMAIN,activate-sjc0.adobe.com
 DOMAIN,activate.activation-v2.kaspersky.com
@@ -2083,6 +2084,7 @@ DOMAIN-SUFFIX,apole.com
 DOMAIN-SUFFIX,apornotube.net
 DOMAIN-SUFFIX,aporntv.com
 DOMAIN-SUFFIX,apornvideo.com
+DOMAIN-SUFFIX,app-ads-services.com
 DOMAIN-SUFFIX,app-analytics-services-att.com
 DOMAIN-SUFFIX,app-analytics-services.com
 DOMAIN,app-analytics-services.com
@@ -13050,7 +13052,10 @@ DOMAIN-SUFFIX,jetbrains.ai
 DOMAIN-SUFFIX,jetbrains.cloud
 DOMAIN-SUFFIX,jetbrains.com
 DOMAIN-SUFFIX,jetbrains.com.cn
+DOMAIN-SUFFIX,jetbrains.dev
 DOMAIN-SUFFIX,jetbrains.net
+DOMAIN-SUFFIX,jetbrains.org
+DOMAIN-SUFFIX,jetbrains.ru
 DOMAIN-SUFFIX,jetbrains.space
 DOMAIN-SUFFIX,jetbrains.team
 DOMAIN-SUFFIX,jetfuelapp.com
@@ -13553,6 +13558,8 @@ DOMAIN-SUFFIX,korewaeroi.com
 DOMAIN-SUFFIX,korona.com
 DOMAIN-SUFFIX,koshelek.app
 DOMAIN-SUFFIX,kostenlosepornoclips.com
+DOMAIN-SUFFIX,kotl.in
+DOMAIN-SUFFIX,kotlinconf.com
 DOMAIN-SUFFIX,kotlinlang.org
 DOMAIN-SUFFIX,koubaibu.jp
 DOMAIN-SUFFIX,koukoku.jp
@@ -13600,6 +13607,7 @@ DOMAIN,ksn-verdict-geo.kaspersky-labs.com
 DOMAIN,ksn-verdict.geoksn.kaspersky.com
 DOMAIN-SUFFIX,ksyp10.com
 DOMAIN-SUFFIX,ktech.team
+DOMAIN-SUFFIX,ktor.io
 DOMAIN-SUFFIX,ktvu.com
 DOMAIN-SUFFIX,ku77.xyz
 DOMAIN-SUFFIX,kuaimao-app.com
@@ -15837,6 +15845,7 @@ DOMAIN-SUFFIX,myhtlmebook.com
 DOMAIN-SUFFIX,myhulu.com
 DOMAIN-SUFFIX,myicloud.net
 DOMAIN-SUFFIX,myipod.net
+DOMAIN-SUFFIX,myjetbrains.com
 DOMAIN-SUFFIX,myjkwd.com
 DOMAIN-SUFFIX,mylcloud.net
 DOMAIN-SUFFIX,mylf.com
@@ -16560,6 +16569,7 @@ DOMAIN-SUFFIX,norsk.mobi
 DOMAIN-SUFFIX,norton.com
 DOMAIN,notary-submissions-prod.s3-accelerate.amazonaws.com
 DOMAIN,notary-submissions-prod.s3.us-west-2.amazonaws.com
+DOMAIN-SUFFIX,notebook.google.com
 DOMAIN,notebooklm-pa.googleapis.com
 DOMAIN-SUFFIX,notebooklm.google
 DOMAIN-SUFFIX,notebooklm.google.com
@@ -17187,6 +17197,7 @@ DOMAIN-SUFFIX,openweather.co.uk
 DOMAIN-SUFFIX,openweathermap.org
 DOMAIN-SUFFIX,openweave.io
 DOMAIN-SUFFIX,openwrt.org
+DOMAIN-SUFFIX,openxla.org
 DOMAIN-SUFFIX,opera.com
 DOMAIN,opgg-static.akamaized.net
 DOMAIN-SUFFIX,opinionjournal.com
@@ -21544,6 +21555,7 @@ DOMAIN-SUFFIX,takporn.com
 DOMAIN-SUFFIX,talantix.ru
 DOMAIN-SUFFIX,talentlens.com
 DOMAIN-SUFFIX,taleofthenight.com
+DOMAIN-SUFFIX,talkingkotlin.com
 DOMAIN-SUFFIX,talksport.com
 DOMAIN-SUFFIX,tamilsexvideos.cc
 DOMAIN-SUFFIX,tampermonkey.net

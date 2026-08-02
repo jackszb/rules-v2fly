@@ -1,10 +1,10 @@
 # NAME: GOOGLE-GEMINI
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-07-16 05:46:05
-# DOMAIN-SUFFIX: 29
+# UPDATED: 2026-08-02 06:08:28
+# DOMAIN-SUFFIX: 30
 # DOMAIN: 11
-# TOTAL: 40
+# TOTAL: 41
 DOMAIN,ai.google.dev
 DOMAIN-SUFFIX,ai.studio
 DOMAIN-SUFFIX,aicode.googleapis.com
@@ -35,6 +35,7 @@ DOMAIN-SUFFIX,jules.google.com
 DOMAIN-SUFFIX,labs.google
 DOMAIN-SUFFIX,labs.google.com
 DOMAIN-SUFFIX,makersuite.google.com
+DOMAIN-SUFFIX,notebook.google.com
 DOMAIN,notebooklm-pa.googleapis.com
 DOMAIN-SUFFIX,notebooklm.google
 DOMAIN-SUFFIX,notebooklm.google.com
