@@ -1,10 +1,10 @@
 # NAME: CATEGORY-RU
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-07-31 06:18:49
-# DOMAIN-SUFFIX: 1702
+# UPDATED: 2026-08-04 05:54:20
+# DOMAIN-SUFFIX: 1706
 # DOMAIN: 234
-# TOTAL: 1936
+# TOTAL: 1940
 DOMAIN-SUFFIX,1917live.red
 DOMAIN,1l-hit.mail.ru
 DOMAIN,1l-hit.vkplay.ru
@@ -1001,14 +1001,17 @@ DOMAIN-SUFFIX,overi.ru
 DOMAIN-SUFFIX,ozon-credit.ru
 DOMAIN-SUFFIX,ozon-dostavka.ru
 DOMAIN-SUFFIX,ozon-tech.ru
+DOMAIN-SUFFIX,ozon.app
 DOMAIN-SUFFIX,ozon.by
 DOMAIN-SUFFIX,ozon.com
 DOMAIN-SUFFIX,ozon.com.by
 DOMAIN-SUFFIX,ozon.com.kz
 DOMAIN-SUFFIX,ozon.dev
 DOMAIN-SUFFIX,ozon.express
+DOMAIN-SUFFIX,ozon.global
 DOMAIN-SUFFIX,ozon.kz
 DOMAIN-SUFFIX,ozon.li
+DOMAIN-SUFFIX,ozon.market
 DOMAIN-SUFFIX,ozon.ru
 DOMAIN-SUFFIX,ozon.tech
 DOMAIN-SUFFIX,ozon.tm
@@ -1246,6 +1249,7 @@ DOMAIN-SUFFIX,rustore.ru
 DOMAIN-SUFFIX,rustore.team
 DOMAIN-SUFFIX,rustore.tv
 DOMAIN-SUFFIX,rutube.ru
+DOMAIN-SUFFIX,rutube.sport
 DOMAIN-SUFFIX,rutubelist.ru
 DOMAIN-SUFFIX,rwb.ru
 DOMAIN-SUFFIX,rwbautomation.ru

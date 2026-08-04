@@ -1,11 +1,11 @@
 # NAME: CATEGORY-AI-CHAT-!CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-08-02 06:08:27
-# DOMAIN-SUFFIX: 143
+# UPDATED: 2026-08-04 05:54:20
+# DOMAIN-SUFFIX: 145
 # DOMAIN: 28
 # URL-REGEX: 1
-# TOTAL: 172
+# TOTAL: 174
 URL-REGEX,^chatgpt-async-webps-prod-\S+-\d+\.webpubsub\.azure\.com$
 DOMAIN-SUFFIX,agentclientprotocol.com
 DOMAIN,ai.google.dev
@@ -72,6 +72,8 @@ DOMAIN-SUFFIX,cursorapi.com
 DOMAIN,daily-cloudcode-pa.googleapis.com
 DOMAIN-SUFFIX,deepmind.com
 DOMAIN-SUFFIX,deepmind.google
+DOMAIN-SUFFIX,deepwiki.com
+DOMAIN-SUFFIX,deepwiki.org
 DOMAIN-SUFFIX,devin.ai
 DOMAIN-SUFFIX,diabrowser.com
 DOMAIN-SUFFIX,diabrowser.engineering

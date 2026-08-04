@@ -1,7 +1,7 @@
 # NAME: GEOLOCATION-CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-08-02 06:08:28
+# UPDATED: 2026-08-04 05:54:20
 # DOMAIN-SUFFIX: 5303
 # DOMAIN: 62
 # URL-REGEX: 3
@@ -875,6 +875,7 @@ DOMAIN-SUFFIX,cbern.com.cn
 DOMAIN-SUFFIX,cbinews.com
 DOMAIN-SUFFIX,cbjq.com
 DOMAIN-SUFFIX,cbjs.baidu.com
+DOMAIN-SUFFIX,cbn.cn
 DOMAIN-SUFFIX,cc-pay.cn
 DOMAIN-SUFFIX,ccf.org.cn
 DOMAIN-SUFFIX,ccfund.com.cn
@@ -1041,7 +1042,6 @@ DOMAIN-SUFFIX,chinaz.net
 DOMAIN-SUFFIX,chinazns.com
 DOMAIN-SUFFIX,chinesemooc.org
 DOMAIN-SUFFIX,chiphell.com
-DOMAIN-SUFFIX,chn.cn
 DOMAIN-SUFFIX,chndoi.org
 DOMAIN-SUFFIX,chnppmuseum.com
 DOMAIN-SUFFIX,chongbuluo.com

@@ -1,10 +1,10 @@
 # NAME: APPLE
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-07-09 06:50:53
+# UPDATED: 2026-08-04 05:54:19
 # DOMAIN-SUFFIX: 1576
-# DOMAIN: 247
-# TOTAL: 1823
+# DOMAIN: 249
+# TOTAL: 1825
 DOMAIN-SUFFIX,100beatscheap.com
 DOMAIN-SUFFIX,12diasdepresentesdeitunes.com
 DOMAIN-SUFFIX,12diasderegalosdeitunes.cl
@@ -1748,6 +1748,8 @@ DOMAIN-SUFFIX,theuab.net
 DOMAIN-SUFFIX,thinkdifferent.us
 DOMAIN-SUFFIX,timestamp.apple.com
 DOMAIN,tj-pod1-smp-device.apple.com
+DOMAIN,tj-pod2-smp-device.apple.com
+DOMAIN,tj-pod3-smp-device.apple.com
 DOMAIN-SUFFIX,topbeatsbydrdreoutlet.com
 DOMAIN-SUFFIX,topbeatsdealer.com
 DOMAIN-SUFFIX,topbeatsforsale.com

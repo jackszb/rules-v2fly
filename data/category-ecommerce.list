@@ -1,10 +1,10 @@
 # NAME: CATEGORY-ECOMMERCE
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-07-30 05:49:44
-# DOMAIN-SUFFIX: 1278
+# UPDATED: 2026-08-04 05:54:20
+# DOMAIN-SUFFIX: 1281
 # DOMAIN: 38
-# TOTAL: 1316
+# TOTAL: 1319
 DOMAIN-SUFFIX,21centuryaccess.com
 DOMAIN-SUFFIX,4ebaytraders.com
 DOMAIN-SUFFIX,abb.travel
@@ -998,14 +998,17 @@ DOMAIN-SUFFIX,outletnike.com
 DOMAIN-SUFFIX,ozon-credit.ru
 DOMAIN-SUFFIX,ozon-dostavka.ru
 DOMAIN-SUFFIX,ozon-tech.ru
+DOMAIN-SUFFIX,ozon.app
 DOMAIN-SUFFIX,ozon.by
 DOMAIN-SUFFIX,ozon.com
 DOMAIN-SUFFIX,ozon.com.by
 DOMAIN-SUFFIX,ozon.com.kz
 DOMAIN-SUFFIX,ozon.dev
 DOMAIN-SUFFIX,ozon.express
+DOMAIN-SUFFIX,ozon.global
 DOMAIN-SUFFIX,ozon.kz
 DOMAIN-SUFFIX,ozon.li
+DOMAIN-SUFFIX,ozon.market
 DOMAIN-SUFFIX,ozon.ru
 DOMAIN-SUFFIX,ozon.tech
 DOMAIN-SUFFIX,ozon.tm

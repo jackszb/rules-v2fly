@@ -1,10 +1,10 @@
 # NAME: CATEGORY-ECOMMERCE-RU
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-07-30 05:49:44
-# DOMAIN-SUFFIX: 162
+# UPDATED: 2026-08-04 05:54:20
+# DOMAIN-SUFFIX: 165
 # DOMAIN: 34
-# TOTAL: 196
+# TOTAL: 199
 DOMAIN,ad.ozone.ru
 DOMAIN,ads-gate.wildberries.ru
 DOMAIN,ads-media.wildberries.ru
@@ -57,14 +57,17 @@ DOMAIN-SUFFIX,onlyjobs.ru
 DOMAIN-SUFFIX,ozon-credit.ru
 DOMAIN-SUFFIX,ozon-dostavka.ru
 DOMAIN-SUFFIX,ozon-tech.ru
+DOMAIN-SUFFIX,ozon.app
 DOMAIN-SUFFIX,ozon.by
 DOMAIN-SUFFIX,ozon.com
 DOMAIN-SUFFIX,ozon.com.by
 DOMAIN-SUFFIX,ozon.com.kz
 DOMAIN-SUFFIX,ozon.dev
 DOMAIN-SUFFIX,ozon.express
+DOMAIN-SUFFIX,ozon.global
 DOMAIN-SUFFIX,ozon.kz
 DOMAIN-SUFFIX,ozon.li
+DOMAIN-SUFFIX,ozon.market
 DOMAIN-SUFFIX,ozon.ru
 DOMAIN-SUFFIX,ozon.tech
 DOMAIN-SUFFIX,ozon.tm
