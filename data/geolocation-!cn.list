@@ -1,11 +1,11 @@
 # NAME: GEOLOCATION-!CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-08-04 05:54:20
-# DOMAIN-SUFFIX: 24220
+# UPDATED: 2026-08-05 05:51:32
+# DOMAIN-SUFFIX: 24226
 # DOMAIN: 1437
 # URL-REGEX: 158
-# TOTAL: 25815
+# TOTAL: 25821
 URL-REGEX,(^|\.)13mei[5-7]\.buzz$
 URL-REGEX,(^|\.)18j[efg]\.life$
 URL-REGEX,(^|\.)18jmttios[0-9]{2}\.com$
@@ -10016,6 +10016,7 @@ DOMAIN-SUFFIX,glamourtits.com
 DOMAIN-SUFFIX,glasamerike.net
 DOMAIN-SUFFIX,gle
 DOMAIN-SUFFIX,gleline.com
+DOMAIN-SUFFIX,glitchwave.com
 DOMAIN-SUFFIX,global-sci.org
 DOMAIN-SUFFIX,global-studio.gmo
 DOMAIN-SUFFIX,globaledu.org
@@ -18973,6 +18974,7 @@ DOMAIN-SUFFIX,raspberrypi.org
 DOMAIN-SUFFIX,raspbian.org
 DOMAIN-SUFFIX,rat.xxx
 DOMAIN-SUFFIX,ratedgross.com
+DOMAIN-SUFFIX,rateyourmusic.com
 DOMAIN-SUFFIX,ravm.tv
 DOMAIN-SUFFIX,rayark.download
 DOMAIN-SUFFIX,rayark.net
@@ -19538,6 +19540,7 @@ DOMAIN-SUFFIX,rwb.ru
 DOMAIN-SUFFIX,rwbautomation.ru
 DOMAIN-SUFFIX,rwbautomation.tech
 DOMAIN-SUFFIX,rwbgeo.ru
+DOMAIN-SUFFIX,rym.fm
 DOMAIN-SUFFIX,ryokoyomiuri.co.jp
 DOMAIN-SUFFIX,ryukyubank.co.jp
 DOMAIN-SUFFIX,rzr.to
@@ -20640,6 +20643,7 @@ DOMAIN-SUFFIX,snjulebu.com
 DOMAIN-SUFFIX,snk-corp.co.jp
 DOMAIN-SUFFIX,snk-corp.info
 DOMAIN-SUFFIX,snkplaymore.info
+DOMAIN-SUFFIX,snmc.io
 DOMAIN-SUFFIX,snow.me
 DOMAIN-SUFFIX,snowcorp.com
 DOMAIN-SUFFIX,snowmiku.com
@@ -20695,6 +20699,8 @@ DOMAIN-SUFFIX,solidifi.app
 DOMAIN-SUFFIX,solostudioksale.com
 DOMAIN-SUFFIX,solutionstation.com
 DOMAIN-SUFFIX,solveforx.com
+DOMAIN-SUFFIX,sonematic.net
+DOMAIN-SUFFIX,sonemic.com
 DOMAIN-SUFFIX,sonorousporn.com
 DOMAIN-SUFFIX,sony
 DOMAIN-SUFFIX,sony-africa.com
