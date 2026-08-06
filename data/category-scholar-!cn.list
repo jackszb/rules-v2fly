@@ -1,10 +1,10 @@
 # NAME: CATEGORY-SCHOLAR-!CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-06-07 07:10:47
-# DOMAIN-SUFFIX: 404
+# UPDATED: 2026-08-06 05:55:15
+# DOMAIN-SUFFIX: 405
 # DOMAIN: 90
-# TOTAL: 494
+# TOTAL: 495
 DOMAIN-SUFFIX,1lib.cloud
 DOMAIN-SUFFIX,1lib.cz
 DOMAIN-SUFFIX,1lib.domains
@@ -262,6 +262,7 @@ DOMAIN-SUFFIX,mtt.org
 DOMAIN,muse.jhu.edu
 DOMAIN-SUFFIX,nature.com
 DOMAIN-SUFFIX,naturemag.org
+DOMAIN-SUFFIX,ncbi.nlm.nih.gov
 DOMAIN-SUFFIX,ncl.edu.tw
 DOMAIN-SUFFIX,nejm.org
 DOMAIN-SUFFIX,neurology.org

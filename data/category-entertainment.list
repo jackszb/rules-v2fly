@@ -1,11 +1,11 @@
 # NAME: CATEGORY-ENTERTAINMENT
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-08-05 05:51:31
-# DOMAIN-SUFFIX: 1802
-# DOMAIN: 281
+# UPDATED: 2026-08-06 05:55:15
+# DOMAIN-SUFFIX: 1819
+# DOMAIN: 282
 # URL-REGEX: 10
-# TOTAL: 2093
+# TOTAL: 2111
 URL-REGEX,(^|\.)apiproxy-device-prod-nlb-.+\.amazonaws\.com$
 URL-REGEX,(^|\.)apiproxy-website-nlb-prod-.+\.amazonaws\.com$
 URL-REGEX,(^|\.)dualstack\.apiproxy-.+\.amazonaws\.com$
@@ -29,6 +29,7 @@ DOMAIN-SUFFIX,12diasderegalosdeitunes.hn
 DOMAIN-SUFFIX,12diasderegalosdeitunes.pe
 DOMAIN-SUFFIX,12joursdecadeauxdeitunes.com
 DOMAIN-SUFFIX,2025copy.com
+DOMAIN-SUFFIX,20thcenturystudios.com
 DOMAIN-SUFFIX,20thcenturystudios.com.au
 DOMAIN-SUFFIX,20thcenturystudios.com.br
 DOMAIN-SUFFIX,20thcenturystudios.jp
@@ -60,6 +61,7 @@ DOMAIN,a.ppy.sh
 DOMAIN,a4e8s8k3.map2.ssl.hwcdn.net
 DOMAIN-SUFFIX,abc-studios.com
 DOMAIN-SUFFIX,abc.com
+DOMAIN-SUFFIX,abcnews.com
 DOMAIN-SUFFIX,abema-tv.com
 DOMAIN-SUFFIX,abema.io
 DOMAIN-SUFFIX,abema.tv
@@ -141,6 +143,7 @@ DOMAIN-SUFFIX,argo-bdp.com
 DOMAIN-SUFFIX,arma3.com
 DOMAIN-SUFFIX,armaplatform.com
 DOMAIN-SUFFIX,artstation.com
+DOMAIN-SUFFIX,artstationmedia.com
 DOMAIN-SUFFIX,artstorm.com
 DOMAIN-SUFFIX,asobostudio.com
 DOMAIN,assets.ppy.sh
@@ -160,6 +163,7 @@ DOMAIN,bag.itunes.apple.com
 DOMAIN-SUFFIX,bahamut.akamaized.net
 DOMAIN-SUFFIX,bahamut.com.tw
 DOMAIN-SUFFIX,bamgrid.com
+DOMAIN-SUFFIX,bamtech.net
 DOMAIN-SUFFIX,bandcamp.com
 DOMAIN-SUFFIX,bang-dream.com
 DOMAIN-SUFFIX,bangumi.tv
@@ -239,7 +243,6 @@ DOMAIN-SUFFIX,buzzsprout.com
 DOMAIN-SUFFIX,byspotify.com
 DOMAIN-SUFFIX,bystys.tech
 DOMAIN-SUFFIX,bytedapm.com
-DOMAIN-SUFFIX,byteoversea.com
 DOMAIN,c.ppy.sh
 DOMAIN-SUFFIX,callersbane.com
 DOMAIN-SUFFIX,callhulu.com
@@ -371,6 +374,7 @@ DOMAIN-SUFFIX,deadspacegame.com
 DOMAIN-SUFFIX,deezer.com
 DOMAIN-SUFFIX,denfaminicogamer.jp
 DOMAIN-SUFFIX,dengekionline.com
+DOMAIN-SUFFIX,detpress.com
 DOMAIN-SUFFIX,deviantart.com
 DOMAIN-SUFFIX,deviantart.net
 DOMAIN,dfp6rglgjqszk.cloudfront.net
@@ -384,7 +388,6 @@ DOMAIN-SUFFIX,dicela.net
 DOMAIN-SUFFIX,diddykongracing.com
 DOMAIN-SUFFIX,dilcdn.com
 DOMAIN-SUFFIX,dinopoloclub.com
-DOMAIN-SUFFIX,directv.com
 DOMAIN-SUFFIX,disco-api.com
 DOMAIN-SUFFIX,discomax.com
 DOMAIN-SUFFIX,discoveryplus.com
@@ -434,7 +437,9 @@ DOMAIN-SUFFIX,disney.ro
 DOMAIN-SUFFIX,disney.ru
 DOMAIN-SUFFIX,disney.se
 DOMAIN-SUFFIX,disney.sg
+DOMAIN-SUFFIX,disneyaccount.com
 DOMAIN-SUFFIX,disneyadsales.com
+DOMAIN-SUFFIX,disneyanimation.com
 DOMAIN-SUFFIX,disneyarena.com
 DOMAIN-SUFFIX,disneyaulani.com
 DOMAIN-SUFFIX,disneybaby.com
@@ -449,6 +454,7 @@ DOMAIN-SUFFIX,disneyinternational.com
 DOMAIN-SUFFIX,disneyinternationalhd.com
 DOMAIN-SUFFIX,disneyjunior.com
 DOMAIN-SUFFIX,disneyjuniortreataday.com
+DOMAIN-SUFFIX,disneylandparis.com
 DOMAIN-SUFFIX,disneylatino.com
 DOMAIN-SUFFIX,disneymagicmoments.co.il
 DOMAIN-SUFFIX,disneymagicmoments.co.uk
@@ -470,12 +476,14 @@ DOMAIN-SUFFIX,disneynow.com
 DOMAIN-SUFFIX,disneypeoplesurveys.com
 DOMAIN-SUFFIX,disneyplus.bn5x.net
 DOMAIN-SUFFIX,disneyplus.com
-DOMAIN-SUFFIX,disneyplus.com.ssl.sc.omtrdc.net
+DOMAIN,disneyplus.com.ssl.sc.omtrdc.net
+DOMAIN-SUFFIX,disneyprivacycenter.com
 DOMAIN-SUFFIX,disneyredirects.com
 DOMAIN-SUFFIX,disneysrivieraresort.com
 DOMAIN-SUFFIX,disneystore.com
 DOMAIN-SUFFIX,disneystreaming.com
 DOMAIN-SUFFIX,disneysubscription.com
+DOMAIN-SUFFIX,disneytermsofuse.com
 DOMAIN-SUFFIX,disneytickets.co.uk
 DOMAIN-SUFFIX,disneyturkiye.com.tr
 DOMAIN-SUFFIX,disneytvajobs.com
@@ -623,11 +631,14 @@ DOMAIN-SUFFIX,forzamotorsport.net
 DOMAIN-SUFFIX,forzaracingchampionship.com
 DOMAIN-SUFFIX,forzarc.com
 DOMAIN,fpinit.itunes.apple.com
+DOMAIN-SUFFIX,freeform.com
 DOMAIN-SUFFIX,freehulu.com
 DOMAIN-SUFFIX,frostbite.com
 DOMAIN-SUFFIX,funimation.com
 DOMAIN-SUFFIX,futpromos.com
 DOMAIN-SUFFIX,futunited.com
+DOMAIN-SUFFIX,fxnetwork.com
+DOMAIN-SUFFIX,fxnetworks.com
 DOMAIN-SUFFIX,gaijin.net
 DOMAIN-SUFFIX,gaijinent.com
 DOMAIN-SUFFIX,game-repack.site
@@ -776,6 +787,7 @@ DOMAIN,hls.itunes.apple.com
 DOMAIN-SUFFIX,hobbigame.com
 DOMAIN-SUFFIX,homebox.com
 DOMAIN-SUFFIX,homeboxoffice.com
+DOMAIN-SUFFIX,hongkongdisneyland.com
 DOMAIN-SUFFIX,honkaiimpact3.com
 DOMAIN-SUFFIX,honkaistarrail.com
 DOMAIN-SUFFIX,hooloo.tv
@@ -989,6 +1001,7 @@ DOMAIN-SUFFIX,lordofultima.com
 DOMAIN-SUFFIX,loverslab.com
 DOMAIN-SUFFIX,lowiro.com
 DOMAIN-SUFFIX,lpl.com.cn
+DOMAIN-SUFFIX,lucasfilm.com
 DOMAIN,lv.queniujq.cn
 DOMAIN,m1.ppy.sh
 DOMAIN-SUFFIX,maddenchampionship.com
@@ -1278,6 +1291,7 @@ DOMAIN-SUFFIX,personaltrainermath.com
 DOMAIN-SUFFIX,piapro.net
 DOMAIN-SUFFIX,pinkcore.com
 DOMAIN-SUFFIX,pinkcore.net
+DOMAIN-SUFFIX,pixar.com
 DOMAIN-SUFFIX,pixiv-recommend.net
 DOMAIN-SUFFIX,pixiv.co.jp
 DOMAIN-SUFFIX,pixiv.help
@@ -1481,6 +1495,7 @@ DOMAIN,se2.itunes.apple.com
 DOMAIN-SUFFIX,seagroup.com
 DOMAIN-SUFFIX,seaofsolitude.com
 DOMAIN,search.itunes.apple.com
+DOMAIN-SUFFIX,searchlightpictures.com
 DOMAIN-SUFFIX,seeurlpcl.com
 DOMAIN-SUFFIX,sekai.colorfulpalette.org
 DOMAIN-SUFFIX,sendvid.com
@@ -1488,6 +1503,7 @@ DOMAIN,sentry.ppy.sh
 DOMAIN,sf-api-token-service.itunes.apple.com
 DOMAIN-SUFFIX,shadowcomplex.com
 DOMAIN-SUFFIX,shadowverse-evolve.com
+DOMAIN-SUFFIX,shanghaidisneyresort.com
 DOMAIN-SUFFIX,shopdisney.com
 DOMAIN-SUFFIX,shops-disney.com
 DOMAIN-SUFFIX,showtime.com
@@ -1671,6 +1687,7 @@ DOMAIN-SUFFIX,thesims4.com
 DOMAIN-SUFFIX,thesimssocial.com
 DOMAIN-SUFFIX,thestationbymaker.com
 DOMAIN-SUFFIX,thetvdb.com
+DOMAIN-SUFFIX,thewaltdisneycompany.com
 DOMAIN-SUFFIX,thewonderful101.com
 DOMAIN-SUFFIX,thisisgame.com
 DOMAIN-SUFFIX,thisispolaris.com
@@ -1708,6 +1725,7 @@ DOMAIN,tmdb-image-prod.b-cdn.net
 DOMAIN,tmdb-web-image-prod.b-cdn.net
 DOMAIN-SUFFIX,tmdb.org
 DOMAIN-SUFFIX,tnt-ea.com
+DOMAIN-SUFFIX,tokyodisneyresort.jp
 DOMAIN-SUFFIX,tospotify.com
 DOMAIN-SUFFIX,toy-people.com
 DOMAIN-SUFFIX,tra-ww000-cp.akamaized.net
@@ -1720,7 +1738,6 @@ DOMAIN-SUFFIX,ttvnw.net
 DOMAIN-SUFFIX,ttwstatic.com
 DOMAIN-SUFFIX,tv.apple.com
 DOMAIN,tv.applemusic.com
-DOMAIN-SUFFIX,tvb.com
 DOMAIN,tvcastlive-hamivideo.cdn.hinet.net
 DOMAIN-SUFFIX,tver.co.jp
 DOMAIN-SUFFIX,tver.jp
@@ -1814,6 +1831,7 @@ DOMAIN-SUFFIX,vrchat.com
 DOMAIN-SUFFIX,vrchat.net
 DOMAIN-SUFFIX,vrv.co
 DOMAIN-SUFFIX,wallhaven.cc
+DOMAIN-SUFFIX,waltdisneystudios.com
 DOMAIN-SUFFIX,wanuxi.com
 DOMAIN-SUFFIX,wargaming.com
 DOMAIN-SUFFIX,wargaming.net

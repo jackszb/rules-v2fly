@@ -1,10 +1,10 @@
 # NAME: FOX
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-05-23 10:07:37
-# DOMAIN-SUFFIX: 246
+# UPDATED: 2026-08-06 05:55:15
+# DOMAIN-SUFFIX: 244
 # DOMAIN: 1
-# TOTAL: 247
+# TOTAL: 245
 DOMAIN-SUFFIX,afewmomentswith.com
 DOMAIN-SUFFIX,anidom.com
 DOMAIN-SUFFIX,bentobox.tv
@@ -181,8 +181,6 @@ DOMAIN-SUFFIX,foxweatherwatch.com
 DOMAIN-SUFFIX,fse.tv
 DOMAIN-SUFFIX,fssta.com
 DOMAIN-SUFFIX,fxn.ws
-DOMAIN-SUFFIX,fxnetwork.com
-DOMAIN-SUFFIX,fxnetworks.com
 DOMAIN-SUFFIX,geraldoatlarge.com
 DOMAIN-SUFFIX,gooddaychicago.com
 DOMAIN-SUFFIX,joeswall.com

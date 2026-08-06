@@ -1,9 +1,9 @@
 # NAME: ATT
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-05-23 10:07:36
-# DOMAIN-SUFFIX: 133
-# TOTAL: 133
+# UPDATED: 2026-08-06 05:55:14
+# DOMAIN-SUFFIX: 135
+# TOTAL: 135
 DOMAIN-SUFFIX,accbusiness.com
 DOMAIN-SUFFIX,atandt.com
 DOMAIN-SUFFIX,att-bundles.com
@@ -44,6 +44,7 @@ DOMAIN-SUFFIX,atttvnow.com
 DOMAIN-SUFFIX,attuverseoffers.com
 DOMAIN-SUFFIX,attuverseonline.com
 DOMAIN-SUFFIX,attvoip.com
+DOMAIN-SUFFIX,attwatchtv.com
 DOMAIN-SUFFIX,attwifi.com
 DOMAIN-SUFFIX,attwirelessinternet.com
 DOMAIN-SUFFIX,attwirelessonline.com
@@ -110,6 +111,7 @@ DOMAIN-SUFFIX,direectv.com
 DOMAIN-SUFFIX,diretv.com
 DOMAIN-SUFFIX,dkrecttv.com
 DOMAIN-SUFFIX,dtv2009offers.com
+DOMAIN-SUFFIX,dtvce.com
 DOMAIN-SUFFIX,enterprisepaging.com
 DOMAIN-SUFFIX,freedirecttvspecial.com
 DOMAIN-SUFFIX,getdirect.tv

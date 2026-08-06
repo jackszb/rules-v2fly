@@ -1,11 +1,11 @@
 # NAME: CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-08-04 05:54:20
-# DOMAIN-SUFFIX: 5346
+# UPDATED: 2026-08-06 05:55:15
+# DOMAIN-SUFFIX: 5360
 # DOMAIN: 62
 # URL-REGEX: 3
-# TOTAL: 5411
+# TOTAL: 5425
 URL-REGEX,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
 URL-REGEX,.+\.awsdns-cn-[0-9][a-e0-9]\.cn$
 DOMAIN-SUFFIX,0033.cn
@@ -376,6 +376,8 @@ DOMAIN-SUFFIX,95508.com
 DOMAIN-SUFFIX,95516.com
 DOMAIN-SUFFIX,95516.net
 DOMAIN-SUFFIX,9553.com
+DOMAIN-SUFFIX,95598.cn
+DOMAIN-SUFFIX,95598pay.com
 DOMAIN-SUFFIX,962.net
 DOMAIN-SUFFIX,9718.com
 DOMAIN-SUFFIX,97ting.com
@@ -447,6 +449,7 @@ DOMAIN-SUFFIX,adstats.tencentmusic.com
 DOMAIN-SUFFIX,adukwai.com
 DOMAIN-SUFFIX,adv-sv-show.focus.cn
 DOMAIN-SUFFIX,adv-sv-stat.focus.cn
+DOMAIN-SUFFIX,adx.36kr.com
 DOMAIN-SUFFIX,adx.xiaodutv.com
 DOMAIN-SUFFIX,adxvip.com
 DOMAIN-SUFFIX,afd.baidu.com
@@ -1241,6 +1244,7 @@ DOMAIN-SUFFIX,csdn.net
 DOMAIN-SUFFIX,csdn.net.cn
 DOMAIN-SUFFIX,csdnimg.cn
 DOMAIN-SUFFIX,csfounder.com
+DOMAIN-SUFFIX,csg.cn
 DOMAIN-SUFFIX,csmjzs.com
 DOMAIN-SUFFIX,cspro.org
 DOMAIN-SUFFIX,csqaq.com
@@ -1617,6 +1621,7 @@ DOMAIN-SUFFIX,ebscn-am.com
 DOMAIN-SUFFIX,ebscn.com
 DOMAIN-SUFFIX,ebtrust.com
 DOMAIN-SUFFIX,eceshi.com
+DOMAIN-SUFFIX,echargenet.com
 DOMAIN-SUFFIX,ecjobhome.com
 DOMAIN-SUFFIX,eclick.baidu.com
 DOMAIN-SUFFIX,ecloud-gdu.com
@@ -1624,6 +1629,7 @@ DOMAIN-SUFFIX,ecma.bdimg.com
 DOMAIN-SUFFIX,ecmb.bdimg.com
 DOMAIN-SUFFIX,ecmc.bdimg.com
 DOMAIN-SUFFIX,ecns.cn
+DOMAIN-SUFFIX,ecsg.com.cn
 DOMAIN-SUFFIX,ecukwai.com
 DOMAIN-SUFFIX,eda.cn
 DOMAIN-SUFFIX,edgecloudx.cn
@@ -1670,6 +1676,7 @@ DOMAIN-SUFFIX,erp321.cn
 DOMAIN-SUFFIX,erp321.com
 DOMAIN-SUFFIX,erp321.net
 DOMAIN-SUFFIX,ersjk.com
+DOMAIN-SUFFIX,esgcc.com.cn
 DOMAIN-SUFFIX,essence.com.cn
 DOMAIN-SUFFIX,et-api.com
 DOMAIN-SUFFIX,et001.com
@@ -1778,6 +1785,7 @@ DOMAIN-SUFFIX,fnnas.net
 DOMAIN-SUFFIX,fnos.net
 DOMAIN-SUFFIX,focus-img.cn
 DOMAIN-SUFFIX,focus.cn
+DOMAIN-SUFFIX,focuschina.com
 DOMAIN-SUFFIX,fofa.info
 DOMAIN-SUFFIX,fofa.so
 DOMAIN-SUFFIX,fofuai.com
@@ -3158,6 +3166,7 @@ DOMAIN-SUFFIX,lzpipi.com
 DOMAIN-SUFFIX,m.aty.sohu.com
 DOMAIN-SUFFIX,m1905.cn
 DOMAIN-SUFFIX,m1905.com
+DOMAIN-SUFFIX,made-in-china.com
 DOMAIN-SUFFIX,mafengwo.cn
 DOMAIN-SUFFIX,mafengwo.com
 DOMAIN-SUFFIX,mafengwo.net
@@ -3278,6 +3287,7 @@ DOMAIN-SUFFIX,miaotixing.com
 DOMAIN-SUFFIX,miaowu.baidu.com
 DOMAIN-SUFFIX,miaoyanai.com
 DOMAIN-SUFFIX,miaozhen.com
+DOMAIN-SUFFIX,micstatic.com
 DOMAIN-SUFFIX,micun.com
 DOMAIN-SUFFIX,midasbuy.com
 DOMAIN-SUFFIX,midea.cn
@@ -3690,6 +3700,7 @@ DOMAIN-SUFFIX,pospal.cn
 DOMAIN-SUFFIX,postfund.com.cn
 DOMAIN-SUFFIX,postmail.cn
 DOMAIN-SUFFIX,postoa.com.cn
+DOMAIN-SUFFIX,poweremarket.com
 DOMAIN-SUFFIX,ppkankan01.com
 DOMAIN-SUFFIX,pplive.cn
 DOMAIN-SUFFIX,pplive.com
@@ -4007,6 +4018,7 @@ DOMAIN-SUFFIX,sfccn.com
 DOMAIN-SUFFIX,sffix.cn
 DOMAIN-SUFFIX,sfgy.org
 DOMAIN-SUFFIX,sgamer.com
+DOMAIN-SUFFIX,sgcc.com.cn
 DOMAIN-SUFFIX,shanbay.com
 DOMAIN-SUFFIX,shang360.com
 DOMAIN-SUFFIX,shangc.net
@@ -4437,6 +4449,7 @@ DOMAIN-SUFFIX,tracking.mcdonalds.com.cn
 DOMAIN-SUFFIX,trackingprd.hwwt8.com
 DOMAIN-SUFFIX,trackserver.shuxinyc.com
 DOMAIN-SUFFIX,tracup.com
+DOMAIN-SUFFIX,trademessenger.com
 DOMAIN-SUFFIX,trae.cn
 DOMAIN-SUFFIX,trae.com.cn
 DOMAIN-SUFFIX,trae.guru
@@ -4610,6 +4623,7 @@ DOMAIN-SUFFIX,vcgapi.com
 DOMAIN-SUFFIX,vcimg.com
 DOMAIN-SUFFIX,vdolady.com
 DOMAIN-SUFFIX,veeqi.net
+DOMAIN-SUFFIX,vemic.com
 DOMAIN-SUFFIX,veryhuo.com
 DOMAIN-SUFFIX,veryzhun.com
 DOMAIN-SUFFIX,vgtime.com

@@ -1,10 +1,10 @@
 # NAME: CATEGORY-MEDIA
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-07-01 07:17:23
-# DOMAIN-SUFFIX: 1558
+# UPDATED: 2026-08-06 05:55:15
+# DOMAIN-SUFFIX: 1557
 # DOMAIN: 24
-# TOTAL: 1582
+# TOTAL: 1581
 DOMAIN-SUFFIX,1917live.red
 DOMAIN-SUFFIX,1degree.com.au
 DOMAIN-SUFFIX,1prime.ru
@@ -615,8 +615,6 @@ DOMAIN-SUFFIX,fujinkoron.jp
 DOMAIN-SUFFIX,fundfire.com
 DOMAIN-SUFFIX,funnyordie.com
 DOMAIN-SUFFIX,fxn.ws
-DOMAIN-SUFFIX,fxnetwork.com
-DOMAIN-SUFFIX,fxnetworks.com
 DOMAIN-SUFFIX,g-tvapp.com
 DOMAIN-SUFFIX,g1.com.br
 DOMAIN-SUFFIX,ganjing.com
@@ -910,6 +908,7 @@ DOMAIN-SUFFIX,nbcsports.com
 DOMAIN-SUFFIX,nbcudigitaladops.com
 DOMAIN-SUFFIX,nbcuni.com
 DOMAIN-SUFFIX,nbcuniversal.com
+DOMAIN-SUFFIX,neigbuy.com
 DOMAIN-SUFFIX,neow.in
 DOMAIN-SUFFIX,neowin.net
 DOMAIN-SUFFIX,newcastlenewslocal.com.au

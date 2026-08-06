@@ -1,15 +1,16 @@
 # NAME: EPICGAMES
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-05-23 10:07:37
-# DOMAIN-SUFFIX: 29
+# UPDATED: 2026-08-06 05:55:15
+# DOMAIN-SUFFIX: 30
 # URL-REGEX: 3
-# TOTAL: 32
+# TOTAL: 33
 DOMAIN-SUFFIX,3lateral.com
 URL-REGEX,^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
 URL-REGEX,^epicgames-download\d-\d+\.file\.myqcloud\.com$
 URL-REGEX,^epicgames-download\d\.akamaized\.net$
 DOMAIN-SUFFIX,artstation.com
+DOMAIN-SUFFIX,artstationmedia.com
 DOMAIN-SUFFIX,battlebreakers.com
 DOMAIN-SUFFIX,capturingreality.com
 DOMAIN-SUFFIX,cubicmotion.com

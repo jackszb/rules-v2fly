@@ -1,10 +1,9 @@
 # NAME: MASTERCARD
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-05-23 10:07:37
+# UPDATED: 2026-08-06 05:55:16
 # DOMAIN-SUFFIX: 184
-# DOMAIN: 2
-# TOTAL: 186
+# TOTAL: 184
 DOMAIN-SUFFIX,53world.com
 DOMAIN-SUFFIX,53worldsweeps.com
 DOMAIN-SUFFIX,areyoucreditwise.com
@@ -131,9 +130,7 @@ DOMAIN-SUFFIX,multicurrencycashpassport.com
 DOMAIN-SUFFIX,myaccountglobalcash.com
 DOMAIN-SUFFIX,mycardbenefits.com
 DOMAIN-SUFFIX,nab.com.au
-DOMAIN,nab.demdex.net
 DOMAIN-SUFFIX,nabtravellercard.com.au
-DOMAIN,nationalaustraliaban.tt.omtrdc.net
 DOMAIN-SUFFIX,onedinesfree.com
 DOMAIN-SUFFIX,pahabicilemezsurprizler.com
 DOMAIN-SUFFIX,paypass.net

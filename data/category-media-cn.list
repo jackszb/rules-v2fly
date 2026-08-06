@@ -1,10 +1,10 @@
 # NAME: CATEGORY-MEDIA-CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-07-31 06:18:49
-# DOMAIN-SUFFIX: 398
+# UPDATED: 2026-08-06 05:55:15
+# DOMAIN-SUFFIX: 399
 # DOMAIN: 1
-# TOTAL: 399
+# TOTAL: 400
 DOMAIN-SUFFIX,0033.cn
 DOMAIN-SUFFIX,10jqka.com.cn
 DOMAIN-SUFFIX,17173.com
@@ -29,6 +29,7 @@ DOMAIN-SUFFIX,adnet.sohu.com
 DOMAIN-SUFFIX,ads.sohu.com
 DOMAIN-SUFFIX,adv-sv-show.focus.cn
 DOMAIN-SUFFIX,adv-sv-stat.focus.cn
+DOMAIN-SUFFIX,adx.36kr.com
 DOMAIN-SUFFIX,ahcaijing.com
 DOMAIN-SUFFIX,ahcjw.com
 DOMAIN-SUFFIX,ahwang.cn
