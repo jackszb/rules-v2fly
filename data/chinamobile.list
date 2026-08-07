@@ -1,16 +1,18 @@
 # NAME: CHINAMOBILE
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-05-23 10:07:37
-# DOMAIN-SUFFIX: 27
-# TOTAL: 27
+# UPDATED: 2026-08-07 04:59:24
+# DOMAIN-SUFFIX: 32
+# TOTAL: 32
 DOMAIN-SUFFIX,10086.cn
 DOMAIN-SUFFIX,139.com
 DOMAIN-SUFFIX,andfx.cn
 DOMAIN-SUFFIX,andfx.net
 DOMAIN-SUFFIX,chinamobile.com
+DOMAIN-SUFFIX,chinamobiledevice.com
 DOMAIN-SUFFIX,chinamobileltd.com
 DOMAIN-SUFFIX,cmcc-cs.cn
+DOMAIN-SUFFIX,cmdcxls.com
 DOMAIN-SUFFIX,cmft.com.cn
 DOMAIN-SUFFIX,cmicapm.com
 DOMAIN-SUFFIX,cmicrwx.cn
@@ -19,9 +21,11 @@ DOMAIN-SUFFIX,cmpassport.com
 DOMAIN-SUFFIX,cmpay.com
 DOMAIN-SUFFIX,cmread.com
 DOMAIN-SUFFIX,cmvideo.cn
+DOMAIN-SUFFIX,cxzx10086.cn
 DOMAIN-SUFFIX,cytxl.com.cn
 DOMAIN-SUFFIX,fetion-portal.com
 DOMAIN-SUFFIX,fetionpic.com
+DOMAIN-SUFFIX,fxltsbl.com
 DOMAIN-SUFFIX,migu.cn
 DOMAIN-SUFFIX,migucloud.com
 DOMAIN-SUFFIX,migufun.com
@@ -31,3 +35,4 @@ DOMAIN-SUFFIX,mmarket6.com
 DOMAIN-SUFFIX,online-cmcc.cn
 DOMAIN-SUFFIX,speedtest.hk.chinamobile.com
 DOMAIN-SUFFIX,speedtestbb.hk.chinamobile.com
+DOMAIN-SUFFIX,zdsdp.com

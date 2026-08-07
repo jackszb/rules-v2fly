@@ -1,11 +1,11 @@
 # NAME: GEOLOCATION-CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-08-06 05:55:16
-# DOMAIN-SUFFIX: 5317
+# UPDATED: 2026-08-07 04:59:24
+# DOMAIN-SUFFIX: 5320
 # DOMAIN: 62
 # URL-REGEX: 3
-# TOTAL: 5382
+# TOTAL: 5385
 URL-REGEX,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
 URL-REGEX,.+\.awsdns-cn-[0-9][a-e0-9]\.cn$
 DOMAIN-SUFFIX,0033.cn
@@ -1506,6 +1506,7 @@ DOMAIN-SUFFIX,douyin.com
 DOMAIN-SUFFIX,douyinact.com
 DOMAIN-SUFFIX,douyinact.net
 DOMAIN-SUFFIX,douyincdn.com
+DOMAIN-SUFFIX,douyinec.com
 DOMAIN-SUFFIX,douyinfe.com
 DOMAIN-SUFFIX,douyinliving.com
 DOMAIN-SUFFIX,douyinpay.com
@@ -3055,6 +3056,7 @@ DOMAIN-SUFFIX,liepin.com
 DOMAIN-SUFFIX,lietou-static.com
 DOMAIN-SUFFIX,lietou.com
 DOMAIN-SUFFIX,lieyunwang.com
+DOMAIN-SUFFIX,lifexue.com
 DOMAIN-SUFFIX,lightmake.site
 DOMAIN-SUFFIX,lightonus.com
 DOMAIN-SUFFIX,likuso.com
@@ -4542,6 +4544,7 @@ DOMAIN-SUFFIX,uiwow.com
 DOMAIN-SUFFIX,ule.com
 DOMAIN-SUFFIX,ulecdn.com
 DOMAIN-SUFFIX,ulife.group
+DOMAIN-SUFFIX,ulpay.com
 DOMAIN-SUFFIX,ultimatemusic.cn
 DOMAIN-SUFFIX,ultracachenode.com
 DOMAIN-SUFFIX,umajor.net
