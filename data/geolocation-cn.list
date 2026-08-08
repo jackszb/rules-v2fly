@@ -1,11 +1,11 @@
 # NAME: GEOLOCATION-CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-08-07 04:59:24
-# DOMAIN-SUFFIX: 5320
+# UPDATED: 2026-08-08 04:14:59
+# DOMAIN-SUFFIX: 5324
 # DOMAIN: 62
 # URL-REGEX: 3
-# TOTAL: 5385
+# TOTAL: 5389
 URL-REGEX,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
 URL-REGEX,.+\.awsdns-cn-[0-9][a-e0-9]\.cn$
 DOMAIN-SUFFIX,0033.cn
@@ -487,8 +487,6 @@ DOMAIN-SUFFIX,aiqicha.cn
 DOMAIN-SUFFIX,aiqicha.com
 DOMAIN-SUFFIX,air-matters.com
 DOMAIN-SUFFIX,airchangan.com
-DOMAIN-SUFFIX,airchina.com.cn
-DOMAIN-SUFFIX,airchinacargo.com
 DOMAIN-SUFFIX,airguilin.com
 DOMAIN-SUFFIX,airitilibrary.cn
 DOMAIN-SUFFIX,airnut.com
@@ -3473,6 +3471,7 @@ DOMAIN-SUFFIX,newyx.net
 DOMAIN-SUFFIX,nextstudios.com
 DOMAIN-SUFFIX,nextvid.net
 DOMAIN-SUFFIX,nextworkshop.net
+DOMAIN-SUFFIX,nfcos.cn
 DOMAIN-SUFFIX,nffund.com
 DOMAIN-SUFFIX,nfpeople.com
 DOMAIN-SUFFIX,nga.cn
@@ -3930,6 +3929,7 @@ DOMAIN-SUFFIX,ruiwen.com
 DOMAIN-SUFFIX,runningcheese.com
 DOMAIN-SUFFIX,runoob.com
 DOMAIN-SUFFIX,ruseer.com
+DOMAIN-SUFFIX,ruubypay.com
 DOMAIN-SUFFIX,rwkv.cn
 DOMAIN-SUFFIX,rwkv.com
 DOMAIN-SUFFIX,rzrc114.com
@@ -3976,6 +3976,7 @@ DOMAIN-SUFFIX,scoregg.com
 DOMAIN-SUFFIX,scratch5.com
 DOMAIN-SUFFIX,scsentry.cn
 DOMAIN-SUFFIX,scsjb.cn
+DOMAIN-SUFFIX,sctcd.com
 DOMAIN-SUFFIX,sctv-tf.com
 DOMAIN-SUFFIX,sctv.com
 DOMAIN-SUFFIX,scyol.com
@@ -4042,6 +4043,7 @@ DOMAIN-SUFFIX,shengyi.ai
 DOMAIN-SUFFIX,shengyizhuanjia.com
 DOMAIN-SUFFIX,shenmayouxi.com
 DOMAIN-SUFFIX,shenzhenair.com
+DOMAIN-SUFFIX,shenzhentong.com
 DOMAIN-SUFFIX,sheui.com
 DOMAIN-SUFFIX,shfft.com
 DOMAIN-SUFFIX,shgsec.com
@@ -4123,6 +4125,7 @@ DOMAIN-SUFFIX,snimay.com
 DOMAIN-SUFFIX,snodehome.cn
 DOMAIN-SUFFIX,snodehome.com
 DOMAIN-SUFFIX,snowballsecurities.com
+DOMAIN-SUFFIX,snowballtech.com
 DOMAIN-SUFFIX,snxw.com
 DOMAIN-SUFFIX,so-quick.cn
 DOMAIN-SUFFIX,so.com
@@ -4158,6 +4161,7 @@ DOMAIN-SUFFIX,splash-ads.cdn.unity.cn
 DOMAIN-SUFFIX,splash-ads.unitychina.cn
 DOMAIN-SUFFIX,springairlines.com
 DOMAIN-SUFFIX,springtour.com
+DOMAIN-SUFFIX,sptcc.com
 DOMAIN-SUFFIX,sq.cc
 DOMAIN-SUFFIX,sqqnh.cn
 DOMAIN-SUFFIX,sqqnh.org
