@@ -1,10 +1,10 @@
 # NAME: BLIZZARD
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-05-23 10:07:36
-# DOMAIN-SUFFIX: 14
+# UPDATED: 2026-08-12 04:53:23
+# DOMAIN-SUFFIX: 16
 # DOMAIN: 9
-# TOTAL: 23
+# TOTAL: 25
 DOMAIN-SUFFIX,battle.net
 DOMAIN-SUFFIX,blizzard.com
 DOMAIN,blizzard.nefficient.co.kr
@@ -18,7 +18,9 @@ DOMAIN,blznav.akamaized.net
 DOMAIN,bnetcmsus-a.akamaihd.net
 DOMAIN,bnetproduct-a.akamaihd.net
 DOMAIN,bnetshopus.akamaized.net
+DOMAIN-SUFFIX,diablo.com
 DOMAIN-SUFFIX,diablo3.com
+DOMAIN-SUFFIX,diablo4.com
 DOMAIN-SUFFIX,diabloimmortal.com
 DOMAIN-SUFFIX,firesidegatherings.com
 DOMAIN-SUFFIX,heroesofthestorm.com

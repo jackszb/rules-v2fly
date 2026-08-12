@@ -1,11 +1,11 @@
 # NAME: CATEGORY-ENTERTAINMENT
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-08-06 05:55:15
-# DOMAIN-SUFFIX: 1819
+# UPDATED: 2026-08-12 04:53:24
+# DOMAIN-SUFFIX: 1848
 # DOMAIN: 282
 # URL-REGEX: 10
-# TOTAL: 2111
+# TOTAL: 2140
 URL-REGEX,(^|\.)apiproxy-device-prod-nlb-.+\.amazonaws\.com$
 URL-REGEX,(^|\.)apiproxy-website-nlb-prod-.+\.amazonaws\.com$
 URL-REGEX,(^|\.)dualstack\.apiproxy-.+\.amazonaws\.com$
@@ -71,6 +71,9 @@ DOMAIN-SUFFIX,abow.jp
 DOMAIN-SUFFIX,ac-pocketcamp.com
 DOMAIN-SUFFIX,acesofthunder.net
 DOMAIN-SUFFIX,activematter.game
+DOMAIN-SUFFIX,activision.com
+DOMAIN-SUFFIX,activisionblizzard.com
+DOMAIN-SUFFIX,activisionblizzardmedia.com
 DOMAIN,adeventtracker.spotify.com
 DOMAIN-SUFFIX,ads-pixiv.net
 DOMAIN-SUFFIX,ads.youtube.com
@@ -186,6 +189,7 @@ DOMAIN-SUFFIX,beeline.tv
 DOMAIN-SUFFIX,beforeigners.com
 DOMAIN-SUFFIX,bejeweledstars.com
 DOMAIN-SUFFIX,bejewled-stars.com
+DOMAIN-SUFFIX,benefitsforeveryworld.com
 DOMAIN-SUFFIX,bestdori.com
 DOMAIN-SUFFIX,beth.games
 DOMAIN-SUFFIX,bethesda.net
@@ -246,9 +250,15 @@ DOMAIN-SUFFIX,bytedapm.com
 DOMAIN,c.ppy.sh
 DOMAIN-SUFFIX,callersbane.com
 DOMAIN-SUFFIX,callhulu.com
+DOMAIN-SUFFIX,callofduty.com
+DOMAIN-SUFFIX,callofdutyendowment.com
+DOMAIN-SUFFIX,callofdutyendowment.org
+DOMAIN-SUFFIX,callofdutyleague.com
+DOMAIN-SUFFIX,callofdutymobile.com
 DOMAIN-SUFFIX,camelot-europe.com
 DOMAIN-SUFFIX,camelotherald.com
 DOMAIN-SUFFIX,camelotherald.net
+DOMAIN-SUFFIX,candycrush.com
 DOMAIN-SUFFIX,capitalgames.com
 DOMAIN-SUFFIX,capturingreality.com
 DOMAIN-SUFFIX,castro.fm
@@ -291,6 +301,7 @@ DOMAIN-SUFFIX,convrgencegame.com
 DOMAIN-SUFFIX,copy-manga.com
 DOMAIN-SUFFIX,copy20.com
 DOMAIN-SUFFIX,copy2000.online
+DOMAIN-SUFFIX,crashbandicoot.com
 DOMAIN-SUFFIX,crossout.net
 DOMAIN-SUFFIX,crsed.net
 DOMAIN-SUFFIX,crunchyroll.com
@@ -372,6 +383,7 @@ DOMAIN,ddacn6pr5v0tl.cloudfront.net
 DOMAIN,ddpjwstwtpszg.cloudfront.net
 DOMAIN-SUFFIX,deadspacegame.com
 DOMAIN-SUFFIX,deezer.com
+DOMAIN-SUFFIX,demonware.net
 DOMAIN-SUFFIX,denfaminicogamer.jp
 DOMAIN-SUFFIX,dengekionline.com
 DOMAIN-SUFFIX,detpress.com
@@ -379,7 +391,9 @@ DOMAIN-SUFFIX,deviantart.com
 DOMAIN-SUFFIX,deviantart.net
 DOMAIN,dfp6rglgjqszk.cloudfront.net
 DOMAIN,dgeft87wbj63p.cloudfront.net
+DOMAIN-SUFFIX,diablo.com
 DOMAIN-SUFFIX,diablo3.com
+DOMAIN-SUFFIX,diablo4.com
 DOMAIN-SUFFIX,diabloimmortal.com
 DOMAIN-SUFFIX,dialga.com
 DOMAIN-SUFFIX,dice.se
@@ -588,6 +602,7 @@ DOMAIN-SUFFIX,espncdn.com
 DOMAIN,espndotcom.tt.omtrdc.net
 DOMAIN-SUFFIX,espnqa.com
 DOMAIN-SUFFIX,esports.gg
+DOMAIN-SUFFIX,europeanwarzoneseries.com
 DOMAIN-SUFFIX,excitebots.com
 DOMAIN-SUFFIX,ext-twitch.tv
 DOMAIN-SUFFIX,f1.com
@@ -777,6 +792,7 @@ DOMAIN-SUFFIX,heroesofdragonage.com
 DOMAIN-SUFFIX,heroesofthestorm.com
 DOMAIN-SUFFIX,hibiki-cast.jp
 DOMAIN-SUFFIX,hidive.com
+DOMAIN-SUFFIX,highmoonstudios.com
 DOMAIN-SUFFIX,hikosen.co.jp
 DOMAIN-SUFFIX,historyofdota.com
 DOMAIN-SUFFIX,historyofdota.net
@@ -855,6 +871,7 @@ DOMAIN,inappcheck.itunes.apple.com
 DOMAIN-SUFFIX,indazn.com
 DOMAIN-SUFFIX,indaznlab.com
 DOMAIN-SUFFIX,industrialtoys.com
+DOMAIN-SUFFIX,infinityward.com
 DOMAIN,init.itunes.apple.com
 DOMAIN-SUFFIX,inside-games.jp
 DOMAIN-SUFFIX,insights-collector.gog.com
@@ -919,6 +936,7 @@ DOMAIN-SUFFIX,kfs.io
 DOMAIN-SUFFIX,kgisystems.com
 DOMAIN-SUFFIX,kick.com
 DOMAIN-SUFFIX,kinescopecdn.net
+DOMAIN-SUFFIX,king.com
 DOMAIN-SUFFIX,kingkong.com.tw
 DOMAIN-SUFFIX,kingkongapp.com
 DOMAIN-SUFFIX,kinopoisk-ru.clstorage.net
@@ -1393,6 +1411,7 @@ DOMAIN-SUFFIX,radgametools.com
 DOMAIN-SUFFIX,radiko-cf.com
 DOMAIN-SUFFIX,radiko.jp
 DOMAIN-SUFFIX,rateyourmusic.com
+DOMAIN-SUFFIX,ravensoftware.com
 DOMAIN-SUFFIX,ravm.tv
 DOMAIN-SUFFIX,rayark.download
 DOMAIN-SUFFIX,rayark.net
@@ -1498,6 +1517,7 @@ DOMAIN,search.itunes.apple.com
 DOMAIN-SUFFIX,searchlightpictures.com
 DOMAIN-SUFFIX,seeurlpcl.com
 DOMAIN-SUFFIX,sekai.colorfulpalette.org
+DOMAIN-SUFFIX,sekirothegame.com
 DOMAIN-SUFFIX,sendvid.com
 DOMAIN,sentry.ppy.sh
 DOMAIN,sf-api-token-service.itunes.apple.com
@@ -1508,6 +1528,7 @@ DOMAIN-SUFFIX,shopdisney.com
 DOMAIN-SUFFIX,shops-disney.com
 DOMAIN-SUFFIX,showtime.com
 DOMAIN-SUFFIX,showtimeanytime.com
+DOMAIN-SUFFIX,sierragames.com
 DOMAIN-SUFFIX,sih-db.com
 DOMAIN-SUFFIX,sih.app
 DOMAIN-SUFFIX,silicagame.com
@@ -1516,6 +1537,8 @@ DOMAIN-SUFFIX,simcity.com
 DOMAIN-SUFFIX,simg.jp
 DOMAIN-SUFFIX,skate2.com
 DOMAIN-SUFFIX,sketchfab.com
+DOMAIN-SUFFIX,skylanders.com
+DOMAIN-SUFFIX,sledgehammergames.com
 DOMAIN-SUFFIX,sling.com
 DOMAIN-SUFFIX,slinginternational.com
 DOMAIN-SUFFIX,smartstream.ne.jp
@@ -1526,6 +1549,7 @@ DOMAIN-SUFFIX,snk-corp.info
 DOMAIN-SUFFIX,snkplaymore.info
 DOMAIN-SUFFIX,snmc.io
 DOMAIN-SUFFIX,snowmiku.com
+DOMAIN-SUFFIX,solidstate.com
 DOMAIN-SUFFIX,sonematic.net
 DOMAIN-SUFFIX,sonemic.com
 DOMAIN-SUFFIX,sonyclassics.com
@@ -1565,6 +1589,7 @@ DOMAIN-SUFFIX,spotifyforbrands.com
 DOMAIN-SUFFIX,spotifyforvendors.com
 DOMAIN-SUFFIX,spotifyjobs.com
 DOMAIN-SUFFIX,spyjinx.com
+DOMAIN-SUFFIX,spyrothedragon.com
 DOMAIN-SUFFIX,sqool.net
 DOMAIN-SUFFIX,squadbusters.com
 DOMAIN,ssl-lvlt.cdn.ea.com
@@ -1726,10 +1751,13 @@ DOMAIN,tmdb-web-image-prod.b-cdn.net
 DOMAIN-SUFFIX,tmdb.org
 DOMAIN-SUFFIX,tnt-ea.com
 DOMAIN-SUFFIX,tokyodisneyresort.jp
+DOMAIN-SUFFIX,tonyhawk.com
+DOMAIN-SUFFIX,tonyhawkthegame.com
 DOMAIN-SUFFIX,tospotify.com
 DOMAIN-SUFFIX,toy-people.com
 DOMAIN-SUFFIX,tra-ww000-cp.akamaized.net
 DOMAIN-SUFFIX,trbcdn.net
+DOMAIN-SUFFIX,treyarch.com
 DOMAIN-SUFFIX,triokini.com
 DOMAIN-SUFFIX,ttcdn-us.com
 DOMAIN-SUFFIX,ttlivecdn.com
@@ -1877,6 +1905,7 @@ DOMAIN-SUFFIX,worldoftanks.eu
 DOMAIN-SUFFIX,worldofwarcraft.com
 DOMAIN-SUFFIX,worldofwarplanes.com
 DOMAIN-SUFFIX,worldofwarships.com
+DOMAIN-SUFFIX,worldseriesofwarzone.com
 DOMAIN-SUFFIX,wotblitz.com
 DOMAIN-SUFFIX,wowsblitz.com
 DOMAIN-SUFFIX,ws-blau.com
