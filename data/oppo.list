@@ -1,10 +1,10 @@
 # NAME: OPPO
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-06-10 15:25:59
-# DOMAIN-SUFFIX: 42
+# UPDATED: 2026-08-13 04:57:57
+# DOMAIN-SUFFIX: 44
 # DOMAIN: 1
-# TOTAL: 43
+# TOTAL: 45
 DOMAIN-SUFFIX,allawnfs.com
 DOMAIN-SUFFIX,allawno.com
 DOMAIN-SUFFIX,allawntech.com
@@ -20,6 +20,7 @@ DOMAIN-SUFFIX,heytapimage.com
 DOMAIN-SUFFIX,heytapmobi.com
 DOMAIN-SUFFIX,ioppo.com.cn
 DOMAIN-SUFFIX,ioppo.net
+DOMAIN-SUFFIX,keke.cn
 DOMAIN-SUFFIX,myoppo.com
 DOMAIN-SUFFIX,nearme.com.cn
 DOMAIN-SUFFIX,oneplus.cn
@@ -48,3 +49,4 @@ DOMAIN-SUFFIX,realmebbs.com
 DOMAIN-SUFFIX,realmemobile.com
 DOMAIN-SUFFIX,shopoppo.cn
 DOMAIN-SUFFIX,shopoppo.com.cn
+DOMAIN-SUFFIX,wanyol.com

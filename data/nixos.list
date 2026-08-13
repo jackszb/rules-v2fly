@@ -1,0 +1,19 @@
+# NAME: NIXOS
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
+# UPDATED: 2026-08-13 04:57:57
+# DOMAIN-SUFFIX: 11
+# DOMAIN: 1
+# TOTAL: 12
+DOMAIN-SUFFIX,builtwithnix.org
+DOMAIN-SUFFIX,mynixos.com
+DOMAIN,nix-community.github.io
+DOMAIN-SUFFIX,nix-community.org
+DOMAIN-SUFFIX,nix.dev
+DOMAIN-SUFFIX,nix.store
+DOMAIN-SUFFIX,nixcon.org
+DOMAIN-SUFFIX,nixcon2017.org
+DOMAIN-SUFFIX,nixlang.com
+DOMAIN-SUFFIX,nixos.org
+DOMAIN-SUFFIX,nixos.wiki
+DOMAIN-SUFFIX,nixpkgs.org

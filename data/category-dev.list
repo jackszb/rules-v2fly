@@ -1,11 +1,11 @@
 # NAME: CATEGORY-DEV
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-08-06 05:55:14
-# DOMAIN-SUFFIX: 566
-# DOMAIN: 87
+# UPDATED: 2026-08-13 04:57:56
+# DOMAIN-SUFFIX: 576
+# DOMAIN: 88
 # URL-REGEX: 1
-# TOTAL: 654
+# TOTAL: 665
 URL-REGEX,.+\.dkr\.ecr\.[^\.]+\.amazonaws\.com$
 DOMAIN-SUFFIX,01.org
 DOMAIN-SUFFIX,accountkit.com
@@ -63,6 +63,7 @@ DOMAIN-SUFFIX,brew.sh
 DOMAIN-SUFFIX,buck.build
 DOMAIN-SUFFIX,buckbuild.com
 DOMAIN-SUFFIX,bugsnag.com
+DOMAIN-SUFFIX,builtwithnix.org
 DOMAIN-SUFFIX,busybox.net
 DOMAIN-SUFFIX,calendarserver.org
 DOMAIN-SUFFIX,canonical.com
@@ -386,6 +387,7 @@ DOMAIN-SUFFIX,mspairlift.com
 DOMAIN-SUFFIX,msropendata.com
 DOMAIN-SUFFIX,msys2.org
 DOMAIN-SUFFIX,myjetbrains.com
+DOMAIN-SUFFIX,mynixos.com
 DOMAIN-SUFFIX,myoctocat.com
 DOMAIN-SUFFIX,mysql.com
 DOMAIN-SUFFIX,mystrikingly.com
@@ -395,7 +397,16 @@ DOMAIN-SUFFIX,newpipe.net
 DOMAIN-SUFFIX,nftables.org
 DOMAIN-SUFFIX,nginx.com
 DOMAIN-SUFFIX,nginx.org
+DOMAIN,nix-community.github.io
+DOMAIN-SUFFIX,nix-community.org
+DOMAIN-SUFFIX,nix.dev
+DOMAIN-SUFFIX,nix.store
+DOMAIN-SUFFIX,nixcon.org
+DOMAIN-SUFFIX,nixcon2017.org
+DOMAIN-SUFFIX,nixlang.com
 DOMAIN-SUFFIX,nixos.org
+DOMAIN-SUFFIX,nixos.wiki
+DOMAIN-SUFFIX,nixpkgs.org
 DOMAIN-SUFFIX,nodejs.org
 DOMAIN-SUFFIX,nodesource.com
 DOMAIN-SUFFIX,nomadproject.io
