@@ -1,11 +1,11 @@
 # NAME: GEOLOCATION-!CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-08-14 04:54:30
-# DOMAIN-SUFFIX: 24309
+# UPDATED: 2026-08-15 03:45:40
+# DOMAIN-SUFFIX: 24311
 # DOMAIN: 1441
 # URL-REGEX: 158
-# TOTAL: 25908
+# TOTAL: 25910
 URL-REGEX,(^|\.)13mei[5-7]\.buzz$
 URL-REGEX,(^|\.)18j[efg]\.life$
 URL-REGEX,(^|\.)18jmttios[0-9]{2}\.com$
@@ -7103,6 +7103,7 @@ DOMAIN-SUFFIX,disquscdn.com
 DOMAIN-SUFFIX,disqusservice.com
 DOMAIN-SUFFIX,ditu.live.com
 DOMAIN-SUFFIX,divas.com.uy
+DOMAIN-SUFFIX,divdyn.com
 DOMAIN-SUFFIX,diwodiwo.xyz
 DOMAIN-SUFFIX,diyarbakirescort.com
 DOMAIN-SUFFIX,diyuser.buzz
@@ -19594,6 +19595,7 @@ DOMAIN-SUFFIX,rutracker.me
 DOMAIN-SUFFIX,rutracker.net
 DOMAIN-SUFFIX,rutracker.nl
 DOMAIN-SUFFIX,rutracker.org
+DOMAIN-SUFFIX,rutracker.wiki
 DOMAIN-SUFFIX,rutrk.org
 DOMAIN-SUFFIX,rutube.ru
 DOMAIN-SUFFIX,rutube.sport
