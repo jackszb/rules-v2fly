@@ -1,10 +1,10 @@
 # NAME: BYTEDANCE
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-08-15 03:45:39
-# DOMAIN-SUFFIX: 920
+# UPDATED: 2026-08-17 03:55:42
+# DOMAIN-SUFFIX: 924
 # DOMAIN: 32
-# TOTAL: 952
+# TOTAL: 956
 DOMAIN-SUFFIX,365yg.com
 DOMAIN-SUFFIX,99uri.cn
 DOMAIN-SUFFIX,99uri.com
@@ -295,6 +295,7 @@ DOMAIN-SUFFIX,douyincloud.run
 DOMAIN-SUFFIX,douyinec.com
 DOMAIN-SUFFIX,douyinfe.com
 DOMAIN-SUFFIX,douyinliving.com
+DOMAIN-SUFFIX,douyinmusicpromotion.com
 DOMAIN-SUFFIX,douyinpay.com
 DOMAIN-SUFFIX,douyinpic.com
 DOMAIN-SUFFIX,douyinstatic.com
@@ -490,6 +491,7 @@ DOMAIN-SUFFIX,larksuiteimg-boe.com
 DOMAIN-SUFFIX,larksuiteimg-pre.com
 DOMAIN-SUFFIX,larksuiteimg.com
 DOMAIN-SUFFIX,larkvc.com
+DOMAIN-SUFFIX,letsign.com
 DOMAIN-SUFFIX,lifexue.com
 DOMAIN-SUFFIX,livecdnstatic.com
 DOMAIN-SUFFIX,livesaascdn.com
@@ -912,6 +914,7 @@ DOMAIN-SUFFIX,wukongwenda.cn
 DOMAIN-SUFFIX,wukongwenda.com
 DOMAIN-SUFFIX,xck31.cn
 DOMAIN-SUFFIX,xflowedge.com
+DOMAIN-SUFFIX,xiaohe.cn
 DOMAIN-SUFFIX,xiaoxiaapi.com
 DOMAIN-SUFFIX,xiguaapp.cn
 DOMAIN-SUFFIX,xiguaapp.com
@@ -919,6 +922,7 @@ DOMAIN-SUFFIX,xiguashipin.cn
 DOMAIN-SUFFIX,xiguashipin.net
 DOMAIN-SUFFIX,xiguavideo.cn
 DOMAIN-SUFFIX,xiguavideo.net
+DOMAIN-SUFFIX,xingtu.cn
 DOMAIN-SUFFIX,xitu.io
 DOMAIN-SUFFIX,xsgtvacct.com
 DOMAIN-SUFFIX,xyf61.cn

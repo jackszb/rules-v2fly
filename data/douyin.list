@@ -1,7 +1,7 @@
 # NAME: DOUYIN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-08-07 04:59:24
+# UPDATED: 2026-08-17 03:55:42
 # DOMAIN-SUFFIX: 71
 # TOTAL: 71
 DOMAIN-SUFFIX,activity-wbsj.com
@@ -23,6 +23,7 @@ DOMAIN-SUFFIX,douyincdn.com
 DOMAIN-SUFFIX,douyinec.com
 DOMAIN-SUFFIX,douyinfe.com
 DOMAIN-SUFFIX,douyinliving.com
+DOMAIN-SUFFIX,douyinmusicpromotion.com
 DOMAIN-SUFFIX,douyinpay.com
 DOMAIN-SUFFIX,douyinpic.com
 DOMAIN-SUFFIX,douyinstatic.com
@@ -58,7 +59,6 @@ DOMAIN-SUFFIX,ihuoshanimg.com
 DOMAIN-SUFFIX,ihuoshanlive.com
 DOMAIN-SUFFIX,ihuoshanstatic.com
 DOMAIN-SUFFIX,ihuoshanvod.com
-DOMAIN-SUFFIX,kesong.co
 DOMAIN-SUFFIX,kolbuyer.cn
 DOMAIN-SUFFIX,lifexue.com
 DOMAIN-SUFFIX,nextvid.net

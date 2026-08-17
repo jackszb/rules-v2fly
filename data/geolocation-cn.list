@@ -1,11 +1,11 @@
 # NAME: GEOLOCATION-CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-08-13 04:57:57
-# DOMAIN-SUFFIX: 5383
+# UPDATED: 2026-08-17 03:55:43
+# DOMAIN-SUFFIX: 5389
 # DOMAIN: 62
 # URL-REGEX: 3
-# TOTAL: 5448
+# TOTAL: 5454
 URL-REGEX,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
 URL-REGEX,.+\.awsdns-cn-[0-9][a-e0-9]\.cn$
 DOMAIN-SUFFIX,0033.cn
@@ -1413,6 +1413,7 @@ DOMAIN-SUFFIX,ddxq.mobi
 DOMAIN-SUFFIX,ddzn.tech
 DOMAIN-SUFFIX,dearedu.com
 DOMAIN-SUFFIX,debugmode.cn
+DOMAIN-SUFFIX,dedao.cn
 DOMAIN-SUFFIX,dedecms.com
 DOMAIN-SUFFIX,deepepg.com
 DOMAIN-SUFFIX,deepinos.org
@@ -1524,6 +1525,7 @@ DOMAIN-SUFFIX,douyincdn.com
 DOMAIN-SUFFIX,douyinec.com
 DOMAIN-SUFFIX,douyinfe.com
 DOMAIN-SUFFIX,douyinliving.com
+DOMAIN-SUFFIX,douyinmusicpromotion.com
 DOMAIN-SUFFIX,douyinpay.com
 DOMAIN-SUFFIX,douyinpic.com
 DOMAIN-SUFFIX,douyinstatic.com
@@ -1635,6 +1637,7 @@ DOMAIN-SUFFIX,ebtrust.com
 DOMAIN-SUFFIX,eceshi.com
 DOMAIN-SUFFIX,echargenet.com
 DOMAIN-SUFFIX,ecjobhome.com
+DOMAIN-SUFFIX,eckwai.com
 DOMAIN-SUFFIX,eclick.baidu.com
 DOMAIN-SUFFIX,ecloud-gdu.com
 DOMAIN-SUFFIX,ecma.bdimg.com
@@ -2834,7 +2837,6 @@ DOMAIN-SUFFIX,kemen.cn
 DOMAIN-SUFFIX,keniu.com
 DOMAIN-SUFFIX,kepuchina.cn
 DOMAIN-SUFFIX,keruyun.com
-DOMAIN-SUFFIX,kesong.co
 DOMAIN-SUFFIX,ketangpai.com
 DOMAIN-SUFFIX,kexinshe.com
 DOMAIN-SUFFIX,keyoo.com
@@ -2941,6 +2943,9 @@ DOMAIN-SUFFIX,kuyinxiu.com
 DOMAIN-SUFFIX,kuyinyun.com
 DOMAIN-SUFFIX,kuyiso.com
 DOMAIN-SUFFIX,kwaicdn.com
+DOMAIN-SUFFIX,kwaishop.com
+DOMAIN-SUFFIX,kwaixiaodian.com
+DOMAIN-SUFFIX,kwaiying.com
 DOMAIN-SUFFIX,kwaizt.com
 DOMAIN-SUFFIX,kwimgs.com
 DOMAIN-SUFFIX,kysec.cn
@@ -3377,6 +3382,7 @@ DOMAIN-SUFFIX,moji002.com
 DOMAIN-SUFFIX,mojicdn.com
 DOMAIN-SUFFIX,mojichina.com
 DOMAIN-SUFFIX,mojidict.com
+DOMAIN-SUFFIX,mojidoc.com
 DOMAIN-SUFFIX,mokahr.com
 DOMAIN-SUFFIX,moleecel.com
 DOMAIN-SUFFIX,moliranran.com
@@ -3799,6 +3805,7 @@ DOMAIN-SUFFIX,qiantucdn.com
 DOMAIN-SUFFIX,qianuni.com
 DOMAIN-SUFFIX,qianwen.aliyun.com
 DOMAIN-SUFFIX,qianwen.com
+DOMAIN-SUFFIX,qianwenai.com
 DOMAIN-SUFFIX,qianxin.com
 DOMAIN-SUFFIX,qianxincdn.com
 DOMAIN-SUFFIX,qianxuecloud.com
@@ -4538,9 +4545,6 @@ DOMAIN-SUFFIX,twyxh.com
 DOMAIN-SUFFIX,txrjy.com
 DOMAIN-SUFFIX,u-cdn.net
 DOMAIN-SUFFIX,u.tools
-DOMAIN-SUFFIX,u17.com
-DOMAIN-SUFFIX,u17i.com
-DOMAIN-SUFFIX,u17t.com
 DOMAIN-SUFFIX,u3d.cn
 DOMAIN-SUFFIX,ubmcvideo.baidustatic.com
 DOMAIN-SUFFIX,ubssdic.com
@@ -4602,6 +4606,7 @@ DOMAIN-SUFFIX,ume-trip.cn
 DOMAIN-SUFFIX,umetrip.com
 DOMAIN-SUFFIX,umetrip.com.cn
 DOMAIN-SUFFIX,umetrip.net.cn
+DOMAIN-SUFFIX,umiwi.com
 DOMAIN-SUFFIX,unaming.cn
 DOMAIN-SUFFIX,unaming.info
 DOMAIN-SUFFIX,unaming.net
@@ -4857,6 +4862,7 @@ DOMAIN-SUFFIX,wsdvs.com
 DOMAIN-SUFFIX,wsglb.com
 DOMAIN-SUFFIX,wsglb.net
 DOMAIN-SUFFIX,wsjqnmmrmv.world
+DOMAIN-SUFFIX,wskwai.com
 DOMAIN-SUFFIX,wsoso.com
 DOMAIN-SUFFIX,wss.cc
 DOMAIN-SUFFIX,wss.email
