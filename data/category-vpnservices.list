@@ -1,9 +1,9 @@
 # NAME: CATEGORY-VPNSERVICES
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-06-18 08:14:28
-# DOMAIN-SUFFIX: 67
-# TOTAL: 67
+# UPDATED: 2026-08-18 03:50:17
+# DOMAIN-SUFFIX: 69
+# TOTAL: 69
 DOMAIN-SUFFIX,928.plus
 DOMAIN-SUFFIX,aaex.uk
 DOMAIN-SUFFIX,airport-gov-cn.com
@@ -47,6 +47,8 @@ DOMAIN-SUFFIX,n3ro.wtf
 DOMAIN-SUFFIX,nexitally.com
 DOMAIN-SUFFIX,nexitallysafe.com
 DOMAIN-SUFFIX,nexitcore.com
+DOMAIN-SUFFIX,nordcdn.com
+DOMAIN-SUFFIX,nordvpn.com
 DOMAIN-SUFFIX,paofu.cloud
 DOMAIN-SUFFIX,paofuyun.me
 DOMAIN-SUFFIX,renzhe.cloud

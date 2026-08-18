@@ -1,0 +1,8 @@
+# NAME: NORDVPN
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
+# UPDATED: 2026-08-18 03:50:17
+# DOMAIN-SUFFIX: 2
+# TOTAL: 2
+DOMAIN-SUFFIX,nordcdn.com
+DOMAIN-SUFFIX,nordvpn.com

@@ -1,11 +1,11 @@
 # NAME: GEOLOCATION-!CN
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-08-15 03:45:40
-# DOMAIN-SUFFIX: 24311
+# UPDATED: 2026-08-18 03:50:17
+# DOMAIN-SUFFIX: 24313
 # DOMAIN: 1441
 # URL-REGEX: 158
-# TOTAL: 25910
+# TOTAL: 25912
 URL-REGEX,(^|\.)13mei[5-7]\.buzz$
 URL-REGEX,(^|\.)18j[efg]\.life$
 URL-REGEX,(^|\.)18jmttios[0-9]{2}\.com$
@@ -16626,8 +16626,10 @@ DOMAIN-SUFFIX,nonlinearnastran.com
 DOMAIN-SUFFIX,nonstopfap.com
 DOMAIN-SUFFIX,noodlemagazine.com
 DOMAIN-SUFFIX,noosferabank.ru
+DOMAIN-SUFFIX,nordcdn.com
 DOMAIN-SUFFIX,nordstrom.com
 DOMAIN-SUFFIX,nordstrommedia.com
+DOMAIN-SUFFIX,nordvpn.com
 DOMAIN-SUFFIX,norsk.mobi
 DOMAIN-SUFFIX,norton.com
 DOMAIN,notary-submissions-prod.s3-accelerate.amazonaws.com
