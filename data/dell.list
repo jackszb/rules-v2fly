@@ -1,11 +1,10 @@
 # NAME: DELL
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-05-23 10:07:37
+# UPDATED: 2026-08-20 03:51:52
 # DOMAIN-SUFFIX: 209
-# DOMAIN: 27
-# TOTAL: 236
-DOMAIN,afcs.dell.com
+# DOMAIN: 1
+# TOTAL: 210
 DOMAIN-SUFFIX,alienware.ae
 DOMAIN-SUFFIX,alienware.at
 DOMAIN-SUFFIX,alienware.be
@@ -43,10 +42,7 @@ DOMAIN-SUFFIX,alienware.ps
 DOMAIN-SUFFIX,alienware.ro
 DOMAIN-SUFFIX,alienware.se
 DOMAIN-SUFFIX,alienware.us
-DOMAIN,clientperipherals.dell.com
-DOMAIN,customization-cdn.dell.com
 DOMAIN-SUFFIX,dataframeworks.com
-DOMAIN,dds.dell.com
 DOMAIN-SUFFIX,del.com
 DOMAIN-SUFFIX,del.com.br
 DOMAIN-SUFFIX,dell
@@ -212,32 +208,10 @@ DOMAIN-SUFFIX,delltechnologies.com
 DOMAIN-SUFFIX,delltechnologies.com.cn
 DOMAIN-SUFFIX,delltechnologiescapital.com
 DOMAIN-SUFFIX,delltechnologiesworld.com
-DOMAIN,dl.dell.com
-DOMAIN,ea2cn-dev-outlet.dell.com
-DOMAIN,ea2cn-prod-outlet.dell.com
-DOMAIN,ea2cn-staging-outlet.dell.com
 DOMAIN-SUFFIX,earthdell.com
 DOMAIN-SUFFIX,emc.com
-DOMAIN,fcs.dell.com
-DOMAIN,fta.dell.com
-DOMAIN,ftaapj.dell.com
-DOMAIN,ftaemea.dell.com
-DOMAIN,ftasitapj.dell.com
-DOMAIN,gbxgateway-dev.dell.com
-DOMAIN,gbxgateway.dell.com
-DOMAIN,i.dell.com
-DOMAIN,nexus.dell.com
-DOMAIN,p.cdn.persaas.dell.com
 DOMAIN-SUFFIX,platform.dell.com
-DOMAIN,scene7-cdn.dell.com
 DOMAIN-SUFFIX,shopalienware.com
-DOMAIN,si.cdn.dell.com
-DOMAIN,sm.dell.com
-DOMAIN,snp.cdn.dell.com
-DOMAIN,snpi.dell.com
 DOMAIN-SUFFIX,solutionstation.com
 DOMAIN-SUFFIX,studiodell.com
-DOMAIN,supportassist.dell.com
 DOMAIN-SUFFIX,vce.com
-DOMAIN,www-csb.dell.com
-DOMAIN,www.dell.com

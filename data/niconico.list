@@ -1,10 +1,12 @@
 # NAME: NICONICO
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-rules-v2fly
-# UPDATED: 2026-05-23 10:07:37
-# DOMAIN-SUFFIX: 8
-# TOTAL: 8
+# UPDATED: 2026-08-20 03:51:53
+# DOMAIN-SUFFIX: 10
+# TOTAL: 10
 DOMAIN-SUFFIX,nico
+DOMAIN-SUFFIX,nico.ms
+DOMAIN-SUFFIX,nicochannel.jp
 DOMAIN-SUFFIX,nicodic.jp
 DOMAIN-SUFFIX,nicomanga.jp
 DOMAIN-SUFFIX,niconico.com
